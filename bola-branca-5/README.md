@@ -22,3 +22,5 @@ App para aprendizado simulando a garagem de uma empresa de ônibus
 [PUT] /onibus/{id} : Atualizar um ônibus, deve permitir que um usuário atualize as informações de um ônibus existente, fornecendo o ID {numero} do veículo e as informações a serem atualizadas.
 
 [DELETE] /onibus/{id}: Excluir um veículo da tabela de ônibus, deve permitir que um usuário exclua um veículo existente, fornecendo o ID {número} do mesmo.
+
+teste
